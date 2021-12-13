@@ -5,7 +5,7 @@
     - 💞️ I’m looking to collaborate on iOT, WebApps, 5G, and Artificial Intelligence!
 - 📫 How to reach me ? Check out my link: https://www.linkedin.com/in/akhmalfirdaus
 
-                      "Innovation is an applied Ideation." -mdev
+                     "Innovation is an applied Ideation." -mdev
 
 <!---
 AkhmalFirdaus/AkhmalFirdaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

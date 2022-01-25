@@ -1,5 +1,5 @@
                             - 👋 Hi, I’m @AkhmalFirdaus
-                    (Creativity enthusiast + Hiking Photographer)
+               (Analytics & Creativity Enthusiast/Adventurer/Photographer)
         - 👀 I’m interested in Analytics, Data, Techs, and Science Development.
          - 🌱 I’m currently learning Java, Python, XML, Swift, ML Programming.
     - 💞️ I’m looking to collaborate on iOT, WebApps, 5G, and Artificial Intelligence!

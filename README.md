@@ -1,11 +1,8 @@
-                            - 👋 Hi, I’m @AkhmalFirdaus
-               (Analytics & Creativity Enthusiast/Adventurer/Photographer)
-        - 👀 I’m interested in Analytics, Data, Techs, and Science Development.
-         - 🌱 I’m currently learning Java, Python, XML, Swift, ML Programming.
-    - 💞️ I’m looking to collaborate on iOT, WebApps, 5G, and Artificial Intelligence!
-- 📫 How to reach me ? Check out my site: https://www.linkedin.com/in/akhmalfirdaus
+< Living with Code >
 
-                     "Innovation is an applied Ideation." -mdev
+< Interests: IOT / ML / AI >
+
+"Innovation is an applied Ideation." -mdev
 
 <!---
 AkhmalFirdaus/AkhmalFirdaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
